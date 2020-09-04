@@ -9,7 +9,7 @@ css: style.css
 
 ### <br/>[about]
 # Research Library 
-The COVID-19 pandemic has already claimed thousands of lives worldwide and has dramatically affected our daily lifestyle. In the long-term, efficacious and pre-exposure vaccinations could protect people from infections and likely enable people to get back to their no rmal lives.
+The COVID-19 Research Updates Project summarizes current research in four main directions to better understand COVID-19 on the research front, aiming to supports awareness regarding the three COVID-19 research fields: vaccines, therapeutics, and research in children.
 
 ### <br/>[vaccines]
 # Vaccines
