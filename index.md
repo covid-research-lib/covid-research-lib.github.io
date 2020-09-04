@@ -102,7 +102,7 @@ Currently, we keep track of vaccine candidates for COVID-19 under Phase 2/ 3 tri
 
 ### <br/>[therapeutics]
 # Therapeutics 
-As of August 24, 2020, no drugs or other therapeutics have been approved by the US FDA to treat or prevent COVID-19. 
+As of September 4, 2020, no drugs or other therapeutics have been approved by the US FDA to treat or prevent COVID-19. 
 Current clinical managements include infection prevention and control measures and supportive care, including supplemental oxygen and mechanical ventilatory support when indicated.
 
 **I. FDA approval vs. Emergency Use Authorization**<br/>
@@ -110,7 +110,7 @@ In the US, the FDA is responsible for determining regulatory standards for medic
 
 However, when action is urgently needed to diagnose, treat or prevent serious disease, **Emergency Use Authorizations (EUAs)** may be issued. EUAs provide quick access to products that have not yet received FDA approval. EUAs are based on the best available evidence at the time and remain effective until the emergency declaration end or new evidence prompts revision or retraction of the authorization.
 
-As of August 24, 2020, two drug products under EUA for COVID-19 treatment is **Redemisvir** and **corticosteroids**.
+As of September 4, 2020, two drug products under EUA for COVID-19 treatment is **Redemisvir** and **corticosteroids**.
 In Canada, the “Special Access Program (SAP)” corresponds to EUA in the US. As of July 6, 2020, Health Canada haven’t granted any SAP or approval to drugs for COVID-19.
 
 **II. Potential therapeutic treatments for COVID-19**<br/>
