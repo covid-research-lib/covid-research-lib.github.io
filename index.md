@@ -29,7 +29,7 @@ Phase 4 trials can also be referred to as post-marketing surveillance. These stu
 |  aaaaaaaaaaaav |  b |  b | b  |  bbbbbbbb<br/>bbbbb | -->
 <br/>
 ## **I. Vaccine Candidates**<br/>
-Currently, we keep track of vaccine candidates for COVID-19 under Phase 2/ 3 trials with a brief introduction below. Table 1 summarizes the three (as of July 24, 2020) vaccine candidates for COVID-19 under Phase 2/ 3 trials:
+Currently, we keep track of vaccine candidates for COVID-19 under Phase 2/ 3 trials with a brief introduction below. Table 1 summarizes the three (as of September 4, 2020) vaccine candidates for COVID-19 under Phase 2/ 3 trials:
 
 
 <div id="paper">
