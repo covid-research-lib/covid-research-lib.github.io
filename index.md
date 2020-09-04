@@ -9,7 +9,7 @@ css: style.css
 
 ### <br/>[about]
 # Research Library 
-The COVID-19 Research Updates Project summarizes current research in four main directions to better understand COVID-19 on the research front, aiming to supports awareness regarding the three COVID-19 research fields: vaccines, therapeutics, and research in children.
+The COVID-19 Research Updates Project summarizes current research in four main directions to better understand COVID-19 on the research front, aiming to support awareness regarding three COVID-19 research fields: vaccines, therapeutics, and research in children.
 
 ### <br/>[vaccines]
 # Vaccines
