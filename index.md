@@ -9,12 +9,12 @@ css: style.css
 
 ### <br/>[about]
 # Research Library 
-The COVID-19 Research Updates Project summarizes current research in three main directions to better understand COVID-19 on the research front, aiming to support awareness regarding three COVID-19 research fields: vaccines, therapeutics, and research in children.
+The COVID-19 Research Updates aims to support up-to-date awareness regarding 3 main research frontiers pertaining to COVID-19: vaccines, therapeutics, and research in children.
 
 ### <br/>[vaccines]
 # Vaccines
-   <img class="full_page_image" src="./images/vacc_time_new.png"><br/>
 
+## What are the different types of clinical trials?
 - **Preclinical trials** involve testing drugs in non-human subjects. A wide range of doses is tested to obtain preliminary efficacy, toxicity, and pharmacokinetic information of the drug. Preclinical studies determine whether a candidate drug has the potential for further testing in clinical trials. Classically, clinical trials are divided into phases 1-4, in which early phase trials may provide essential information for late-phase trials.
 - **Phase 1 studies** generally involve human pharmacology studies, in which the drug profile regarding safety, tolerance, and interactions with other drugs are established. Pharmacokinetics (Pharmacokinetics studies how the body affects the drug after administration through absorption, distribution, metabolism, excretion) and pharmacodynamics (Pharmacodynamics studies how the drug affects the body. In particular, dose-response relationships) of the drug are also explored in phase 1. Participants in phase I clinical trials are typically healthy volunteers, with a number of participants ranging around 20 to 100.
 - **Phase 2 studies** involve therapeutic exploratory studies, which look at the effects of various doses. Typically, biomarkers are used as an indicator for the outcome. Phase 2 studies are primarily used to determine the biological effect of the drug and to narrow down the safe dosage obtained in phase 1, in order to determine an optimal dosage.  Side effects are assessed in this stage as well. Participants for phase 2 trials are usually selected under strict inclusion criteria, consisting of several hundred patients with a specified medical condition(s). The phase 2 trial is a necessary and crucial step to turn an early-stage experimental vaccine into a promising vaccine candidate in an efficacy trial in a large population.
@@ -31,6 +31,7 @@ Phase 4 trials can also be referred to as post-marketing surveillance. These stu
 ## **I. Vaccine Candidates**<br/>
 Currently, we keep track of vaccine candidates for COVID-19 under Phase 2/ 3 trials with a brief introduction below.
 
+<img class="full_page_image" src="./images/vacc_time_new.png"><br/>
 
 <div id="paper">
    <br/><br/><br>
