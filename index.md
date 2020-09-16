@@ -119,12 +119,13 @@ However, when action is urgently needed to diagnose, treat or prevent serious di
 As of September 16, 2020, two drug products under EUA for COVID-19 treatment is **Redemisvir** and **Convalscent plasma**.
 In Canada, the “Special Access Program (SAP)” corresponds to EUA in the US. As of September 16, 2020, Health Canada haven’t granted any SAP or approval to drugs for COVID-19.
 
+<br/>
 ### Q: What are some emerging therapeutic treatment options for COVID-19 that have been recommended by the National Institute of Health (NIH) in the U.S.?
 
 <div id="paper">
    <img class="paper_image" src="./images/Remdesivir_EUA.png">
    <div class="paper_text">
-###**Remdesivir (under EUA)**
+###**Remdesivir**
    Remdesivir (GS-441524) is a prodrug of an adenosine triphosphate (ATP) analog. Namely, it is metabolized into its active form GS-441524 upon administration. 
    As an ATP analog, Remdesivir works by competing with ATP for incorporation into RNA and thereby inhibiting the action of viral RNA-dependent RNA polymerase. 
    This leads to the termination of RNA transcription and decreases viral RNA production. Remdesivir has potential antiviral activity against many RNA viruses, such as Ebola and the coronavirus family.
@@ -135,7 +136,7 @@ In Canada, the “Special Access Program (SAP)” corresponds to EUA in the US. 
    <br/><br/><br>
    <img class="paper_image" src="./images/Remdesivir_EUA.png">
    <div class="paper_text">
-###**Convalscent plasma (under EUA)**
+###**Convalscent plasma**
    Convalescent plasma is the liquid part of blood that is collected from patients who have recovered from COVID-19 since COVID-19 patients produce antibodies against the virus, which helps fight the infection. Convalescent plasma and virus-specific immune globulins have been used for the treatment of other viral infections.
    
    The NIH currently [`does not recommend either towards or against`](https://www.covid19treatmentguidelines.nih.gov/statement-on-convalescent-plasma-eua/) the use of convalescent plasma to treat COVID-19 due to insufficient data to make conclusions on benefits and harms.
