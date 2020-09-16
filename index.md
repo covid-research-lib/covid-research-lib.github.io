@@ -119,7 +119,7 @@ However, when action is urgently needed to diagnose, treat or prevent serious di
 As of September 16, 2020, two drug products under EUA for COVID-19 treatment is **Redemisvir** and **Convalscent plasma**.
 In Canada, the “Special Access Program (SAP)” corresponds to EUA in the US. As of September 16, 2020, Health Canada haven’t granted any SAP or approval to drugs for COVID-19.
 
-### What are some emerging therapeutic treatment options for COVID-19 that have been recommended by the National Institute of Health (NIH) in the U.S.?
+### Q: What are some emerging therapeutic treatment options for COVID-19 that have been recommended by the National Institute of Health (NIH) in the U.S.?
 
 <div id="paper">
    <img class="paper_image" src="./images/Remdesivir_EUA.png">
