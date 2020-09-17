@@ -63,7 +63,7 @@ Currently, we keep track of vaccine candidates for COVID-19 under Phase 2/3 or P
    
    Phase 1/2 unpublished preliminary results released by Sinopharm described that all volunteers in the treatment arm have received two injections of the vaccine at one of the three dosing strengths with either 14, 21, or 28 days apart. The company stated that antibodies were detectable for the 14-day and 21-day schedule of the mid-dose was 100% at 28 days. However, the company didn’t specify antibody response rates for the different doses under investigation. Furthermore, the study results were not provided regarding the exact levels of the immune response, rather, they indicated antibody titers were “high”. Additionally, no serious adverse events were observed among study participants.
 
-   On September 14, the United Arab Emirates gave **emergency approval** for Sinopharm’s vaccine to use on health care workers.
+   On September 14, the United Arab Emirates gave **emergency use approval** for Sinopharm’s vaccine to use on health care workers.
    </div>
    <br/><br/><br>
    <img class="paper_image" src="./images/CoronaVac.png">
