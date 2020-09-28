@@ -117,6 +117,24 @@ Currently, we keep track of vaccine candidates for COVID-19 under Phase 2/3 or P
    </div>
 </div>
 
+### Q: Who have built the biggest vaccine portfolios?
+The COVID-19 pandemic has already claimed more than a million lives worldwide and has dramatically affected our daily lifestyle. Many countries around the world have been working hard by collaborating and signing deals with pharmaceutical companies to get people back to their daily lives.
+
+The United States government has initiated an Operation Warp Speed initiative, which has pledged $10 billion and aims to develop and deliver 300 million doses of a safe, effective coronavirus vaccine by January 2021.  The Operation Warp Speed’s goal is to produce and deliver 300 million doses of safe and effective vaccines with the initial doses available by January 2021. The following companies have partnered with the U.S. and have received funding to help speed up the production of safe and effective vaccines, including Johnson & Johnson (Janssen Pharmaceutical), Moderna, AstraZeneca–University of Oxford, Novavax, Pfizer-BioNTech, Sanofi, and GlaxoSmithKline
+
+The UK government has also been building a portfolio of promising vaccine candidates to ensure access to at least one final candidate that works. Manufacturers that have agreed to provide doses include the Oxford University/AstraZeneca, BioNtech/Pfizer, Johnson & Johnson, Novavax, and Valneva. So far, the UK has a potential of over 300 million doses of pre-order vaccines, which is the most per capita in the world and is enough for five does per person.
+
+The Canadian government has committed $1 billion to sign deals with major pharmaceutical companies including Sanofi-GlaxoSmithKline (72 million doses), Johnson & Johnson (38 million doses), Novavax (76 million doses), and BioNtech/Pfizer, Moderna,  to secure access to millions of doses of vaccines for Canada. 
+
+The European Union Commission has also been working on vaccine deals on behalf of member countries. Currently, the Commission has already reached deals with Oxford University/AstraZeneca (300 million doses), BioNtech/Pfizer (300 million doses), Sanofi-GlaxoSmithKline (300 million), Johnson & Johnson (200 million doses), CureVac (225 million doses), and Moderna (80 million doses).
+
+In Asia, Japan is the country with most pre-order vaccine doses per capita. The Japanese government is on track to have 521 million doses of five different vaccines in 2021, compared with a population of 126 million. Recent deals include global arrangements with such drugmakers as BioNtech/Pfizer, Oxford/AstraZeneca, as well as Novavax who granted Takeda, the Japanese global pharmaceutical company a license to manufacture and commercialize its vaccine in Japan. Moderna is also working with Takeda to over a deal for 40 million doses its mRNA vaccine.
+
+Aside from deals made by national governments with vaccine manufacturers, the WHO is also coordinating global efforts to develop a vaccine, with an eye towards delivering two billion doses by the end of 2021. The global initiative, named COVAX, the vaccines pillar of the Access to COVID-19 Tools (ACT) Accelerator, is co-led by the Coalition for Epidemic Preparedness Innovations (CEPI), Gavi, the Vaccine Alliance. It is the only global initiative that is working with governments and manufacturers to ensure COVID-19 vaccines are available worldwide to both higher-income and lower-income countries.
+
+As of September, 64 higher-income countries, including 29 economies operating as Team Europe, have submitted legally binding commitments to join the COVAX Facility. COVAX currently has the world’s largest and most diverse COVID-19 vaccine portfolio - including nine candidate vaccines, with a further nine under evaluation and conversations underway with other major producers. The nine CEPI-supported candidate vaccines include Inovio (Phase 1/2), Moderna (Phase 3), CureVac (Phase 1) Institut Pasteur/Merck/Themis (Preclinical), AstraZeneca/University of Oxford (Phase 3), University of Hong Kong (Preclinical), Novavax (Phase 1/2), Clover Biopharmaceuticals (Phase 1), University of Queensland/CSL (Phase 1).
+
+
 ### <br/>[therapeutics]
 # Therapeutics 
 Nearly 200 therapeutic options or their combinations are under investigation in more than 1700 clinical trials worldwide. However, as of September 16, 2020, no drugs or other therapeutics have been approved by the U.S. FDA to treat or prevent COVID-19. Current clinical management of cases includes infection prevention and control measures and supportive care, including supplemental oxygen and mechanical ventilatory support when indicated. However, there are currently two treatments approved by the FDA under Emergency Use Authorization.
