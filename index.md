@@ -35,7 +35,7 @@ Phase 4 trials can also be referred to as post-marketing surveillance. These stu
 
 Currently, we keep track of vaccine candidates for COVID-19 under Phase 2/3 or Phase 3 trials with a brief introduction below.
 
-<img class="full_page_image" src="./images/vacc_time_new.png"><br/>
+<img class="full_page_image" src="./images/vacc_time_new2.png"><br/>
 
 <div id="paper">
    <br/><br/><br>
@@ -211,7 +211,7 @@ In Canada, the “Special Access Program (SAP)” corresponds to EUA in the US. 
    <img class="paper_image" src="./images/current.png">
    <div class="paper_text">
 ###**Molecular testing**
-   The molecular tests for COVID-19 is performed by the process of Reverse Transcriptase Polymerase Chain Reaction (RT-PCR), utilizing respiratory samples that contain the virus. Since the viral material of SARS-CoV-2 is RNA, and that PCR alone is only able to amplify DNA, combining the enzyme reverse transcriptase to PCR (RT-PCR) can enable the amplification of RNA segments. PCR tests are used to directly detect the presence of an antigen.
+   Molecular tests for COVID-19 is performed by the process of Reverse Transcriptase Polymerase Chain Reaction (RT-PCR), utilizing respiratory samples that contain the virus. Since the viral material of SARS-CoV-2 is RNA, and that PCR alone is only able to amplify DNA, combining the enzyme reverse transcriptase to PCR (RT-PCR) can enable the amplification of RNA segments. PCR tests are used to directly detect the presence of an antigen.
 
    CDC has developed a laboratory test kit for use in testing patient samples for SARS-CoV-2, called the “Centers for Disease Control and Prevention (CDC) 2019 Novel Coronavirus (2019-nCoV) Real-Time Reverse Transcriptase (RT)­–PCR Diagnostic Panel.” The test kit is used by laboratories designated by CDC as qualified and, in the United States, certified under the Clinical Laboratory Improvement Amendments (CLIA) to perform diagnostic tests
    </div>
