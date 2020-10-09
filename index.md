@@ -3,7 +3,7 @@ css: style.css
 <!-- menu  -->
 <div id=menu>
 
-<a href=#about>About</a> ||| <a href=#vaccines>Vaccines</a> ||| <a href=#therapeutics>Therapeutics</a> ||| <a href=#children>Children</a>
+<a href=#about>About</a> ||| <a href=#vaccines>Vaccines</a> ||| <a href=#therapeutics>Therapeutics</a> ||| <a href=#testing>Testing</a>
 
 </div>
 
@@ -187,7 +187,38 @@ In Canada, the “Special Access Program (SAP)” corresponds to EUA in the US. 
    </div>
 </div>
 
-### <br/>[children]
+### <br/>[Testing]
+# Testing [testing]
+<div id="paper">
+   <img class="paper_image" src="./images/past&current.png">
+   <div class="paper_text">
+###**Antibody (Serologic) testing**
+   Antibody tests examine the presence of antibodies in our blood sample. Testing for the existence of antibodies informs us about current or past infection with the virus.
+
+   The production of antibody could take up to 1-3 weeks; therefore, antibody tests should not be used as the sole basis to diagnose current COVID-19 infection. This means that a diagnosis of COVID-19 infection based on antibody response will often only be possible in the recovery phase, when many of the opportunities for clinical intervention or interruption of disease transmission have already passed.
+
+   Still, antibody tests can potentially help healthcare professionals identify individuals who may have developed an immune response to SARS-CoV-2. The test results can aid in determining who may be a potential donor for convalescent plasma, which could serve as a possible treatment for those who are seriously ill from COVID-19.  
+   </div>
+   <br/><br/><br>
+   <img class="paper_image" src="./images/current.png">
+   <div class="paper_text">
+###**Viral testing**
+   Viral tests detect the presence of infectious-causing viruses in the respiratory samples (eg. nasopharyngeal swab, sputum). Since viruses only grow in living cells and the antigens are expressed only when the virus is actively replicating, viral tests are used to test for current infection.
+
+   If the target antigen is present in sufficient concentrations in the sample, it will bind to specific antibodies and generate a visually detectable signal, typically within 30 minutes. The antigens detected are expressed only when the virus is actively replicating; therefore, such tests are best used to identify acute or early infection.
+   </div>
+   <br/><br/><br>
+   <img class="paper_image" src="./images/current.png">
+   <div class="paper_text">
+###**Molecular testing**
+   The molecular tests for COVID-19 is performed by the process of Reverse Transcriptase Polymerase Chain Reaction (RT-PCR), utilizing respiratory samples that contain the virus. Since the viral material of SARS-CoV-2 is RNA, and that PCR alone is only able to amplify DNA, combining the enzyme reverse transcriptase to PCR (RT-PCR) can enable the amplification of RNA segments. PCR tests are used to directly detect the presence of an antigen.
+
+   CDC has developed a laboratory test kit for use in testing patient samples for SARS-CoV-2, called the “Centers for Disease Control and Prevention (CDC) 2019 Novel Coronavirus (2019-nCoV) Real-Time Reverse Transcriptase (RT)­–PCR Diagnostic Panel.” The test kit is used by laboratories designated by CDC as qualified and, in the United States, certified under the Clinical Laboratory Improvement Amendments (CLIA) to perform diagnostic tests
+   </div>
+</div>
+
+
+<!-- ### <br/>[children]
 # COVID-19 and children [children]
 Research studies on the transmission of SARS-CoV-2 in children continue to inform about the potential contribution children may play in the spread of COVID-19.
 
@@ -210,5 +241,5 @@ Research studies on the transmission of SARS-CoV-2 in children continue to infor
 
    Countries where outbreaks were reported in schools after reopening include France, Israel, Ireland and Chile. Risk mitigation strategies including immediate school closure and self quarantine and were shown successful when community transmission were still low. In summary, the CDC Hierarchy of Controls  should be considered when planning school re-openings.
    </div>
-</div>
+</div> -->
 
